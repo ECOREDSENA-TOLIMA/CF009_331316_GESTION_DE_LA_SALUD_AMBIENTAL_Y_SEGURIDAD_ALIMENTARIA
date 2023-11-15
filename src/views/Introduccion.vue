@@ -9,6 +9,11 @@
           i.fas.fa-info
       h1 Introducción
     
+    p(data-aos="fade-right").mb-5 Los procesos salud y enfermedad se ven influenciados por un sinnúmero de variables, las cuales obedecen a las interacciones que se dan entre el hombre y el medio que lo rodea, sea este medio natural, construido o social. A través del estudio de la forma como el entorno incide en la salud y en la calidad de vida de la población es posible diseñar estrategias que permitan reducir los impactos del ambiente en la salud y, al mismo tiempo, idear respuestas para asegurar el desarrollo integral de las comunidades sin poner en riesgo la disponibilidad de recursos para las generaciones futuras, aspectos que se visualizarán en el siguiente video:
+
+
+
+
 </template>
 
 <script>

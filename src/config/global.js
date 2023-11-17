@@ -140,193 +140,184 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Participación social ',
+      tema:
+        '1.	Factores de riesgo en la gestión de la salud ambiental y la seguridad sanitaria',
       referencia:
-        'Ley 1757 de 06 de julio de 2015. Por la cual se dictan disposiciones en materia de promoción y protección del derecho a la participación democrática. Julio 6 de 2015. D.O. No. 49.565.',
-      tipo: 'Documento legal',
+        'Ministerio de Salud y Protección Social (2022). Salud ambiental.',
+      tipo: 'Página web',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=65335',
+        'https://www.minsalud.gov.co/salud/publica/ambiental/Paginas/Salud-ambiental.aspx',
     },
     {
-      tema: '1. Participación social',
+      tema:
+        '1.	Factores de riesgo en la gestión de la salud ambiental y la seguridad sanitaria',
       referencia:
-        'Resolución 2063 de 09 de junio de 2017 [Ministerio de Salud y Protección Social]. Por la cual se adopta la Política de Participación Social en Salud. Junio 9 de 2017.',
-      tipo: 'Documento legal',
+        'Ministerio de Ambiente y Desarrollo Sostenible (2022). Salud Ambiental. ',
+      tipo: 'Página web',
       link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%20No.%202063%20de%202017.pdf',
+        'https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/salud-ambiental/',
     },
     {
-      tema: '1. Participación social ',
+      tema:
+        '1.	Factores de riesgo en la gestión de la salud ambiental y la seguridad sanitaria',
       referencia:
-        'Ministerio de Salud y Protección Social. (2017). Lineamientos de participación social, comunitaria y ciudadana con enfoque diferencial que aporte desde los componentes de la Política Integral de Salud Ambiental – PISA, con intervenciones y/o acciones para los diferentes entornos, de la Ruta de Atención Integral de Promoción y Mantenimiento de la Salud.',
-      tipo: 'Cartilla',
+        'Diseño de un sistema de indicadores socio ambientales para el Distrito Capital de Bogotá. (Cepal, 004) ',
+      tipo: 'Pdf',
       link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/15documento-salud-ambiental-participacion-social.pdf',
+        'https://repositorio.cepal.org/bitstream/handle/11362/4800/1/S044210_es.pdf',
     },
     {
-      tema: '1. Participación social',
+      tema:
+        '1.	Factores de riesgo en la gestión de la salud ambiental y la seguridad sanitaria',
       referencia:
-        'Ministerio De Salud y Protección Social. (2018). Procesos de articulación entre la Política de Participación Social en Salud-PPSS- (Resolución 2063 de 2017) y los componentes de salud ambiental de la Política Integral de Salud Ambiental. Fase I.',
-      tipo: 'Cartilla',
+        'Decreto 596 de 2011. [Alcaldía Mayor de Bogotá. Política Distrital de Salud Ambiental para Bogotá D.C. 2011 – 2023. 19 de diciembre de 2011. ',
+      tipo: 'Decreto Alcaldía Mayor de Bogotá',
       link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/16articulacion-ppss-componentes-salud-ambiental.pdf',
+        'http://www.saludcapital.gov.co/DocumentosPoliticasEnSalud/POL%C3%8D.%20SALUD%20AMBIENTAL.%20DECRETO%20NO%20596%20DE%202011.PDF',
     },
     {
-      tema: '2. Planeación en el desarrollo de las actividades.',
+      tema: '3.Evaluación del riesgo',
       referencia:
-        'Ministerio de Salud y Protección Social. (2018).  ABECÉ de la política de participación social en salud- PPSS hacia los componentes ambientales de la política integral de salud ambiental – PISA.',
-      tipo: 'Cartilla',
+        'Instituto Colombiano de Normas Técnicas. (2016). Perspectiva de la Gestión del Riesgo en la Acreditación en Salud. ',
+      tipo: 'Documento PDF',
       link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/abc-ppss-pisa.pdf',
-    },
-    {
-      tema: '2. Planeación en el desarrollo de las actividades.',
-      referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Plan Decenal de Salud Pública. Dimensión Salud Ambiental. 2012-2021.',
-      tipo: 'Cartilla',
-      link:
-        'https://www.minsalud.gov.co/plandecenal/Documents/dimensiones/dimension-saludambiental.pdf',
-    },
-    {
-      tema: '2. Planeación en el desarrollo de las actividades.',
-      referencia:
-        'Documento CONPES  3550 [Consejo Nacional de Política Económica y Social]. Lineamientos para la formulación de la política integral de salud ambiental con énfasis en los componentes de calidad de aire, calidad de agua y seguridad química. Noviembre 24 de 2008.',
-      tipo: 'Libro',
-      link:
-        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3550.pdf',
+        'http://acreditacionensalud.org.co/wp-content/uploads/2020/07/Gestion-del-riesgo-en-la-Acreditacion-en-Salud.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Administración local',
-      significado:
-        'Son entidades autónomas a nivel territorial, que extienden sus competencias a nivel municipal y están más cercanas a la ciudadanía. (Procuraduría General de la Nación, 2011)',
+      termino: 'Consecuencia',
+      significado: 'Resultado de un evento que afecta los objetivos.',
     },
     {
-      termino: 'Agenda Local',
+      termino: 'Esperanza de vida',
       significado:
-        'Es el proceso de tipo participativo creado para la información, el debate y la decisión sobre el desarrollo de planes y programas municipales. (CEPAL, 2015)',
+        'Es una estimación del número promedio de años de vida adicionales que una persona esperaría vivir si las tasas de mortalidad por edad específica para un año determinado permanecieran durante el resto de su vida.',
     },
     {
-      termino: 'Consejos Sectoriales',
+      termino: 'Incertidumbre',
       significado:
-        'Órganos de participación ciudadana en los que la participación de las entidades se hace por representación, pudiendo participar solo parte del total de los colectivos. (Ley 1757 de 2015)',
+        'Es un grado de desconocimiento o falta de información respecto a un tema en especial.  ',
     },
     {
-      termino: 'COE',
+      termino: 'Magnitud',
       significado:
-        'El Centro de Operaciones de Emergencia en Salud Pública (COE), es una estrategia adaptada por el Instituto Nacional de Salud (INS) que tiene como finalidad la organización en momentos de alarma, brote o ante cualquier evento que sea considerado una amenaza en salud pública para el país. (INS, 2018)',
+        'Estimación cuantitativa del riesgo, expresada por la combinación de valores de la Probabilidad y Consecuencia de ocurrencia de un evento.',
     },
     {
-      termino: 'COVE',
+      termino: 'Nivel de riesgo',
       significado:
-        'El Comité de Vigilancia Epidemiológica, es un espacio de análisis que tiene como objetivo crear herramientas e insumos para la toma de decisiones determinantes, que direccionen hacia acciones trascendentales para controlar situaciones que ponen en riesgo la salud de la población en las diferentes zonas del territorio. (Minsalud, 2019)',
+        'Magnitud de un riesgo expresada en términos de la combinación de las consecuencias y sus probabilidades.',
     },
     {
-      termino: 'Democratización',
-      significado:
-        'Se refiere a los procesos para el fortalecimiento de los mecanismos planteados, y tiene como objetivo el de involucrar a los ciudadanos y las organizaciones de la sociedad civil en la creación, ejecución, control y evaluación de la gestión pública, y generar transparencia en el ejercicio de la función administrativa. (DNP, s. f.)',
+      termino: 'OPS',
+      significado: 'Organización internacional de salud pública.',
     },
     {
-      termino: 'Democracia inclusiva',
+      termino: 'Probabilidad',
       significado:
-        'Es un modelo de democracia donde se fomenta y se da la posibilidad de participación de las personas y entidades en los sectores sociales excluidos o en riesgo de exclusión, logrando habilitar los espacios para que ellos sean actores activos, que decidan sus propios cambios. (OEA, 2006)',
-    },
-    {
-      termino: 'Democracia participativa',
-      significado:
-        'Es la democracia basada en la participación directa de los ciudadanos y ciudadanas en la toma de decisiones, ejecución y control, con incidencia en el gobierno que dirige la colectividad. (Wikipedia, s. f.)',
-    },
-    {
-      termino: 'Descentralización de servicios',
-      significado:
-        'Es el proceso por medio del cual se acercan los servicios de la administración a los ciudadanos y ciudadanas. (CEPAL, 2009)',
-    },
-    {
-      termino: 'Eficacia',
-      significado:
-        'Se refiere a los resultados en función del cumplimiento de objetivos y metas. Para contar con eficiencia, se deben tener las tareas priorizadas y ordenadas para llegar al mejor resultado posible. (CEF, s. f.)',
-    },
-    {
-      termino: 'Empoderamiento',
-      significado:
-        'Es la adquisición de poder e independencia por parte de una persona o grupo social poco favorecido para mejorar su situación. (UNTREF, 2015)',
-    },
-    {
-      termino: 'Gobernabilidad',
-      significado:
-        'Se refiere a la relación que se manifiesta cuando se genera un estado de equilibrio en el ejercicio del poder político, que se deriva de la solución a las demandas de tipo social y las cuales son atendidas de manera eficaz, estable y legítima. (Diccionario de política 2000)',
-    },
-    {
-      termino: 'Gobernanza',
-      significado:
-        'Es una forma de gobierno que se basa en la interrelación equilibrada del Estado, la sociedad civil y el mercado, para alcanzar un desarrollo estable a nivel económico, social e institucional. (CEPAL, 2000)',
-    },
-    {
-      termino: 'UAIRAC',
-      significado:
-        'Consiste en la Unidad de Atención de Enfermedades Respiratorias Agudas Comunitaria (UAEAC), también es conocida como Unidad de Atención de Infecciones Respiratorias Agudas (UAIRAC), la cual es una casa de la comunidad, donde una persona toma el rol de agente comunitario voluntario de salud y cuenta con la capacidad para atender y filtrar personas con sintomatología y direccionados según se requiera. (OPS, 2012) ',
+        'Oportunidad de que algo suceda esté o no definido, medido, determinado objetiva o subjetivamente, cualitativa o cuantitativamente.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Crespo, P., De Rham, P., Gonzáles, G., Iturralde, P., Jaramillo, B., Mancero, L., Moncada, M., Pérez, A. y Soria, C. (2007). Empoderamiento: conceptos y orientaciones. Asocam. ',
+        'Alcaldía de Medellín – Distrito de Ciencia, Tecnología e Innovación. Secretaría de Salud. Programa de Salud Ambiental. ',
       link:
-        'https://www.shareweb.ch/site/Poverty-Wellbeing/resources/Archive%20files/Empoderamiento%20-%20Conceptos%20y%20Orientaciones%202007.pdf',
+        'https://www.medellin.gov.co/es/secretaria-de-salud/subsecretaria-de-salud-publica/salud-ambiental/',
     },
     {
       referencia:
-        'Decreto 1298 de 1994 [Ministerio de Salud]. Por el cual se expide el Estatuto Orgánico del Sistema General de Seguridad Social en Salud. Junio 22 de 1994. D.O. No. 41.402. ',
+        'Cepal – Pnud. (2004). Diseño de un sistema de indicadores socioambientales para el Distrito Capital de Bogotá. ',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=72019 ',
+        'https://blogs.iadb.org/sostenibilidad/es/que-nos-puede-decir-un-mapa-sobre-los-aspectos-socioambientales-de-un-proyecto-de-desarrollo/',
     },
     {
       referencia:
-        'Decreto 1757 de 1994 [Ministerio de Salud]. Por el cual se organizan y se establecen las modalidades y formas de participación social en la prestación de servicios de salud, conforme a lo dispuesto en el numeral 1 del artículo 4º del Decreto Ley 1298 de 1994. Agosto 3 de 1994. D.O. No. 41.477. ',
+        'Consejo Nacional de Política Económica y Social CONPES. (2008). CONPES 3550. Lineamientos para la formulación de la política integral de salud ambiental con énfasis en los componentes de calidad de aire, calidad de agua y seguridad química.  ',
       link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/Decreto%201757%20de%201994.pdf ',
+        'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3550.pdf',
+    },
+    {
+      referencia: 'Economipedia. (2019). Medidas de dispersión. ',
+      link: 'https://economipedia.com/definiciones/medidas-de-dispersion.html',
     },
     {
       referencia:
-        'Ley 850 de 2003 [Ministerio del Interior y de Justicia]. Por medio de la cual se reglamentan las veedurías ciudadanas. Noviembre 18 de 2003. D.O. No. 45.376. ',
+        'Gobierno de Chile. Ministerio del Medio Ambiente. (2014). Lineamientos metodológicos para la evaluación de riesgo ecológico. ',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=10570',
+        'https://sqi.mma.gob.cl/wp-content/uploads/2018/07/g2-Guia-Metodologica-Evaluacion-Riesgo-Ambiental.pdf',
     },
     {
       referencia:
-        'Ley Estatutaria 1751 de 2015. Por medio de la cual se regula el derecho fundamental a la salud y se dictan otras disposiciones. Febrero 16 de 2015. D.O. No. 49.427. ',
+        'González J., Restrepo G. (2010). Biometría comunitaria. Introducción al pensamiento científico en la salud del individuo y la comunidad.',
       link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/Ley%201751%20de%202015.pdf ',
+        'https://noticias.juanncorpas.edu.co/uploads/media/Libro_de_Biometria_Comunitaria.pdf',
     },
     {
       referencia:
-        'Ministerio de Ambiente y Desarrollo Sostenible. (2016). Salud Ambiental.',
+        'ISOTools Colombia. (2016, 12 de abril). ISO 27001: Evaluación y tratamiento de riesgos en 6 pasos. Isotools.us. ',
       link:
-        'https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/salud-ambiental/#:~:text=Qu%C3%A9%20es%20la%20PISA%3F,el%20marco%20de%20la%20CONASA',
+        'https://co.isotools.us/iso-27001-evaluacion-tratamiento-riesgos-6-pasos/',
     },
     {
       referencia:
-        'Mosquera, M. (2002). Comunicación en salud: conceptos, teorías y experiencias. The Communication Initiative Network. ',
+        'Ministerio de Ambiente del Perú. (2010). Guía de evaluación de riesgos ambientales. ',
       link:
-        'https://www.comminit.com/content/comunicaci%C3%B3n-en-salud-conceptos-teor%C3%ADas-y-experiencias#:~:text=De%20acuerdo%20con%20un%20documento,comunitarias%20que%20mejoren%20la%20salud. ',
+        'https://www.minam.gob.pe/calidadambiental/wp-content/uploads/sites/22/2013/10/guia_riesgos_ambientales.pdf',
     },
     {
       referencia:
-        'Peña-Varón, J., Marín-Velásquez, P. y Mosquera-Becerra, J. (2020). Papel de la sistematización de experiencias en los procesos de evaluación de intervenciones de salud pública en la Comuna Saludable por la Paz, Cali – Colombia. Prospectiva, (31), p. 299-313. ',
-      link: 'https://www.redalyc.org/journal/5742/574266888016/html/ ',
+        'Ministerio de Salud y Protección Social. (2014). Guía conceptual y metodológica para la construcción del ASIS de las Entidades Territoriales.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/PSP/Guia%20ASIS%2028112013.pdf',
     },
     {
       referencia:
-        'Resolución 429 de 2016 [Ministerio de Salud y Protección Social]. Por medio de la cual se adopta la Política de Atención Integral en Salud. Febrero 17 de 2016. D.O.  No. 49.794. ',
+        'Ministerio de Salud y Protección Social. (2018). Gestión integral del riesgo en salud. ',
       link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%200429%20de%202016.pdf',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VP/DOA/girs-prespectiva-desde-aseguramiento.pdf',
     },
     {
       referencia:
-        'Retos Directivos. (2022). Cómo desarrollar tus habilidades comunicativas. El blog de retos para ser directivo. ',
+        'Ministerio de Salud y Protección Social. (2021). Análisis de la Situación en Salud.',
       link:
-        'https://retos-directivos.eae.es/como-desarrollar-habilidades-comunicativas/#:~:text=Escucha.,dice%20para%20garantizar%20la%20comprensi%C3%B3n',
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/PSP/analisis-situacion-salud-colombia-2021.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social – Organización Panamericana de la Salud. (2014). Referentes conceptuales y abordajes sobre Determinantes Ambientales.',
+      link:
+        'https://www.minambiente.gov.co/wp-content/uploads/2021/06/Referentes_Conceptuales_y_Abordajes_sobre_Determinantes_Ambientales.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2011). Plan Decenal de Salud Pública 2011 – 2021. ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/PSP/PDSP.pdf',
+    },
+    {
+      referencia:
+        'Naranjo E. (2014). ¿Cómo se gestiona el riesgo? Gestión Integral 3. ',
+      link:
+        'http://gestionempresasintegrales.blogspot.com/p/gestion-del-riesgo.html',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2009). Saneamiento rural y salud, Guía para acciones a nivel local. ',
+      link: 'https://iris.paho.org/handle/10665.2/52823',
+    },
+    {
+      referencia:
+        'Secretaría para Asuntos de Vulnerabilidad, República de El Salvador. (2013). Conceptos básicos de gestión de riesgos. ',
+      link:
+        'https://dipecholac.net/docs/herramientas-proyecto-dipecho/el-salvador/C1-CONCEPTOS-BASICOS-DE-GRD.pdf',
+    },
+    {
+      referencia:
+        'Universidad EAFIT. (s.f.). Consultorio Contable. Boletín Mapa de Riesgos. ',
+      link:
+        'https://www.eafit.edu.co/escuelas/administracion/consultorio-contable/Documents/A%20Mapas%20de%20riesgos.pdf',
     },
   ],
   creditos: [

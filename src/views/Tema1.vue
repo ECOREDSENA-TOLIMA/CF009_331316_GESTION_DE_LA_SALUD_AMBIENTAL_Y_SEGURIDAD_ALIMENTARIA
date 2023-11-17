@@ -147,7 +147,7 @@
         .row
           .col-md-4.mb-4.mb-md-0
             h3 Riesgos químicos: 
-            p están asociados al uso y manipulación de sustancias químicas que ofrecen algún tipo de riesgo para la salud humana, pudiendo causar irritación, reacciones alérgicas, asfixia, efectos narcóticos o intoxicaciones sistémicas.
+            p Están asociados al uso y manipulación de sustancias químicas que ofrecen algún tipo de riesgo para la salud humana, pudiendo causar irritación, reacciones alérgicas, asfixia, efectos narcóticos o intoxicaciones sistémicas.
             p Dentro de ellas se encuentran agroquímicos, combustibles, productos para la industria o reactivos. Cuando la exposición es prolongada y frecuente, incluso pueden tener efectos cancerígenos.
 
             p #[b #[em Posibles causas socioambientales:]] uso indiscriminado de agroquímicos, falta de controles a vertimientos de la industria, mala disposición de residuos sólidos y líquidos.   
@@ -159,7 +159,7 @@
         .row
           .col-md-4.mb-4.mb-md-0
             h3 Riesgos biológicos: 
-            p se asocian a la presencia de organismos que pueden significar un peligro para la salud de las personas. En esta categoría se encuentran, virus, hongos y bacterias. Estos microorganismos suelen propagarse con gran rapidez y se transmiten al ser humano por contacto directo con el agua, animales, tierra, materias primas, contacto con otras personas o con sus fluidos corporales.
+            p Se asocian a la presencia de organismos que pueden significar un peligro para la salud de las personas. En esta categoría se encuentran, virus, hongos y bacterias. Estos microorganismos suelen propagarse con gran rapidez y se transmiten al ser humano por contacto directo con el agua, animales, tierra, materias primas, contacto con otras personas o con sus fluidos corporales.
             p #[b #[em Posibles causas socioambientales:]]  uso indiscriminado de agroquímicos, falta de controles a vertimientos de la industria, mala disposición de residuos sólidos y líquidos.   
 
           .col-md-7
@@ -169,7 +169,7 @@
         .row
           .col-md-4.mb-4.mb-md-0
             h3 Riesgos físicos: 
-            p hace referencia a los daños que se pueden dar a la persona atribuidos única y exclusivamente a las propiedades físicas de algún elemento en particular. Dentro de los principales riesgos físicos se encuentran ruido, vibración, radiación ionizante y no ionizante y temperatura, entre otras. 
+            p Hace referencia a los daños que se pueden dar a la persona atribuidos única y exclusivamente a las propiedades físicas de algún elemento en particular. Dentro de los principales riesgos físicos se encuentran ruido, vibración, radiación ionizante y no ionizante y temperatura, entre otras. 
             p #[b #[em Posibles causas socioambientales:]] construcciones en zonas de alto riesgo, fallas en infraestructura, malas prácticas en procesos productivos.  
 
           .col-md-7
@@ -179,7 +179,7 @@
         .row
           .col-md-4.mb-4.mb-md-0
             h3 Riesgos mecánicos: 
-            p se relacionan con la interacción de las personas con herramientas o equipos que pueden significar algún peligro para su integridad física. Dentro de las afectaciones que se pueden dar por efecto de un riesgo mecánico se encuentran cortes, abrasiones, punciones, contusiones, golpes, atrapamientos, aplastamientos o quemaduras, entre otros. 
+            p Se relacionan con la interacción de las personas con herramientas o equipos que pueden significar algún peligro para su integridad física. Dentro de las afectaciones que se pueden dar por efecto de un riesgo mecánico se encuentran cortes, abrasiones, punciones, contusiones, golpes, atrapamientos, aplastamientos o quemaduras, entre otros. 
             p #[b #[em Posibles causas socioambientales:]] falta de controles para manipulación y operación de equipos, falta de capacitación en operación de equipos, falta de mantenimiento de equipos. 
 
           .col-md-7
@@ -189,7 +189,7 @@
         .row
           .col-md-4.mb-4.mb-md-0
             h3 Riesgos asociados al consumo: 
-            p están asociados a los efectos que los bienes que consume la población pueden tener sobre su calidad de vida y salud. Estos son diversos y de diferente procedencia, y es necesario tener su trazabilidad para hacer un seguimiento adecuado a los procesos de manufactura y distribución. 
+            p Están asociados a los efectos que los bienes que consume la población pueden tener sobre su calidad de vida y salud. Estos son diversos y de diferente procedencia, y es necesario tener su trazabilidad para hacer un seguimiento adecuado a los procesos de manufactura y distribución. 
             p #[b #[em Posibles causas socioambientales:]] falta de controles de autoridades sanitarias, falta de seguimiento a procesos de manufactura, mala calidad de materias primas e insumos, informalidad en distribución y comercialización de productos.
 
           .col-md-7
@@ -471,7 +471,7 @@
             | Catástrofes naturales. 
           li 
             i.lista-ul__vineta
-            | Presencia de vectores
+            | Presencia de vectores.
           li 
             i.lista-ul__vineta
             | Vivienda insalubre. 
@@ -654,7 +654,7 @@
       .col-7
         p.mb-5 Para los peligros que se encuentran en otros ámbitos, como la escuela o el hogar, si bien no se aplica una metodología para estimar el nivel de exposición, el principio es el mismo; a mayor exposición mayor riesgo de sufrir lesión o enfermedad. 
         .cajon.color-secundario.p-4
-          p De acuerdo con el Plan Decenal de Salud Pública el riesgo en salud se define como “la probabilidad de ocurrencia de un evento no deseado, evitable y negativo para la salud del individuo, que puede ser también el empeoramiento de una condición previa o la necesidad de requerir más consumo de bienes y servicios que hubiera podido evitarse”. La identificación de los peligros y los riesgos a los que se expone una comunidad son el principio de la búsqueda de alternativas para proteger a la población y diseñar las estrategias necesarias para garantizar su bienestar.
+          p De acuerdo con el Plan Decenal de Salud Pública, el riesgo en salud se define como “la probabilidad de ocurrencia de un evento no deseado, evitable y negativo para la salud del individuo, que puede ser también el empeoramiento de una condición previa o la necesidad de requerir más consumo de bienes y servicios que hubiera podido evitarse”. La identificación de los peligros y los riesgos a los que se expone una comunidad son el principio de la búsqueda de alternativas para proteger a la población y diseñar las estrategias necesarias para garantizar su bienestar.
           p Para la estimación del nivel de exposición se han diseñado diversas herramientas.
       .col-5
         img(src='@/assets/curso/temas/tema1/30.svg')

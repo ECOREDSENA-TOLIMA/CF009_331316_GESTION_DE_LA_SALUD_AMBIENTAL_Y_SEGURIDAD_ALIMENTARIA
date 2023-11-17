@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8
-        p De acuerdo con la Organización Mundial de la Salud “el derecho a la salud incluye el acceso oportuno, aceptable y asequible a servicios de atención de salud de calidad suficiente” es decir que ninguna persona por motivos relacionados con su nivel de ingresos, raza, filiación religiosa, sector político u orientación sexual puede ser excluida de los servicios de salud. Sin embargo, a pesar de los esfuerzos que se han hecho a nivel mundial para garantizar el ejercicio de este derecho, se estima que la mitad de la población mundial carece de acceso integral a los servicios básicos de salud. 
+        p De acuerdo con la Organización Mundial de la Salud, “el derecho a la salud incluye el acceso oportuno, aceptable y asequible a servicios de atención de salud de calidad suficiente” es decir que ninguna persona por motivos relacionados con su nivel de ingresos, raza, filiación religiosa, sector político u orientación sexual puede ser excluida de los servicios de salud. Sin embargo, a pesar de los esfuerzos que se han hecho a nivel mundial para garantizar el ejercicio de este derecho, se estima que la mitad de la población mundial carece de acceso integral a los servicios básicos de salud. 
         p En Colombia, por fortuna, el panorama es más alentador, y el abordaje del aseguramiento en salud desde la perspectiva de la política pública ha tenido efectos muy positivos como son el aumento en la cobertura universal, el acceso a servicios de salud de calidad y la consolidación de un esquema sanitario sólido, especialmente desde el punto de vista financiero. 
         p.mb-5 El éxito de los sistemas de salud depende, en gran medida, de la capacidad que tengan los Estados para diseñar políticas e intervenciones que respondan a las necesidades reales de la población para lo cual es necesario contar con información confiable que permita analizar el contexto en el que se da la relación salud – enfermedad desde una perspectiva general. En respuesta a esta necesidad de información se dio origen a los Análisis de la Situación de Salud (ASIS) los cuales se definen como un proceso que tiene el fin de caracterizar, medir y explicar el perfil de salud, enfermedad de una población incluyendo los daños y problemas de salud, así como sus determinantes. (Ministerio de Salud y Protección Social). 
       .col-4
@@ -21,7 +21,7 @@
       .row
         .col-md-6.mb-4.mb-md-0
           h3 Decreto 3518 de 2006: 
-          p encarga al Ministerio de Salud y Protección Social realizar el análisis de la situación de la salud del país.
+          p Encarga al Ministerio de Salud y Protección Social realizar el análisis de la situación de la salud del país.
   
         .col-md-6
           figure
@@ -33,13 +33,13 @@
             img(src='@/assets/curso/temas/tema2/3.png', alt='Texto que describa la imagen')
         .col-md-6
           h3 La Ley 1122 de 2007: 
-          p en su artículo 33, creó el Plan Nacional de Salud Pública expresado en el Plan Nacional de Desarrollo. Allí se estableció la necesidad de contar con un perfil epidemiológico en el que se identifiquen los factores protectores, de riesgo y determinantes, entre otros elementos.
+          p En su artículo 33, creó el Plan Nacional de Salud Pública expresado en el Plan Nacional de Desarrollo. Allí se estableció la necesidad de contar con un perfil epidemiológico en el que se identifiquen los factores protectores, de riesgo y determinantes, entre otros elementos.
 
 
       .row
         .col-md-6.mb-4.mb-md-0
           h3 Decreto 3039 de 2007: 
-          p reglamenta la adopción del Plan Nacional de Salud Pública y resalta la importancia del Análisis de la Situación de Salud como herramienta de planificación.
+          p Reglamenta la adopción del Plan Nacional de Salud Pública y resalta la importancia del Análisis de la Situación de Salud como herramienta de planificación.
 
 
         .col-md-6
@@ -52,12 +52,12 @@
             img(src='@/assets/curso/temas/tema2/5.png', alt='Texto que describa la imagen')
         .col-md-6
           h3 Resolución 425 de 2008: 
-          p en esta se define la metodología para la elaboración, ejecución, seguimiento, evaluación y control del Plan de Salud Territorial.
+          p En esta se define la metodología para la elaboración, ejecución, seguimiento, evaluación y control del Plan de Salud Territorial.
 
       .row
         .col-md-6.mb-4.mb-md-0
           h3 Decreto 4107 de 2011: 
-          p determina los objetivos y la estructura del Ministerio de la Salud y Protección Social y le asigna a este la elaboración del estudio de la situación de la salud. 
+          p Determina los objetivos y la estructura del Ministerio de la Salud y Protección Social y le asigna a este la elaboración del estudio de la situación de la salud. 
  
       
         .col-md-6
@@ -70,7 +70,7 @@
             img(src='@/assets/curso/temas/tema2/7.png', alt='Texto que describa la imagen')
         .col-md-6
           h3 Resolución 1035 de 2022: 
-          p por la cual se adopta el Plan Decenal de Salud Pública 2022 – 2031. Se menciona el ASIS como insumo primordial para la formulación de este plan.  
+          p Por la cual se adopta el Plan Decenal de Salud Pública 2022 – 2031. Se menciona el ASIS como insumo primordial para la formulación de este plan.  
 
     p(data-aos="fade-right").mb-5 De acuerdo con la normativa vigente, es posible evidenciar la importancia que tiene el ASIS en la generación de información para la gestión eficiente de las acciones en salud y el diseño de políticas encaminadas hacia el ejercicio efectivo de este derecho. 
 
@@ -327,8 +327,8 @@
             figure
               img(src='@/assets/curso/temas/tema2/25.png', alt='Texto que describa la imagen')
 
-    p(data-aos="fade-right") Uno de los capítulos del ASIS está relacionado directamente con el análisis de la situación epidemiológica del país. En este aparte se analizan aspectos relacionados con el comportamiento de las enfermedades y su incidencia en los diversos grupos poblacionales, pero para entender un poco más lo que significan estas cifras es necesario adentrarse un poco más en lo que significa en sí la epidemiología. 
-    p(data-aos="fade-right").mb-5 Algunos conceptos que resultan absolutamente necesarios para ahondar en temas epidemiológicos se pueden observar en la siguiente figura:
+    p(data-aos="fade-right") Uno de los capítulos del ASIS, está relacionado directamente con el análisis de la situación epidemiológica del país. En este aparte se analizan aspectos relacionados con el comportamiento de las enfermedades y su incidencia en los diversos grupos poblacionales, pero para entender un poco más lo que significan estas cifras es necesario adentrarse un poco más en lo que significa en sí la epidemiología. 
+    p(data-aos="fade-right").mb-5 Algunos conceptos que resultan absolutamente necesarios para ahondar en temas epidemiológicos, se pueden observar en la siguiente figura:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.desktop(data-aos="fade-right")

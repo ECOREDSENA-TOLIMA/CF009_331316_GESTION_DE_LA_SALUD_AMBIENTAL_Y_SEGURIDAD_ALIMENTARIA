@@ -263,12 +263,319 @@
       .col-10
         p(data-aos="fade-right").mb-5 Con base en la caracterización del riesgo, es posible profundizar en el estudio de los factores que inciden en él a través de la identificación de variables cuantitativas y cualitativas:
 
-        
+    AcordionA(tipo="a" clase-tarjeta="tarjeta color-secundario2")(data-aos="flip-up").mb-5 
+      .row(titulo="Variables cuantitativas")
+        .col-md-6.mb-4.mb-md-0
+          p Se expresan en términos numéricos y los valores deben corresponder con mediciones precisas realizadas en el terreno. Por lo general el acopio de información numérica precisa y confiable, es uno de los mayores retos al momento de evaluar este tipo de variables.
+      
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema3/13.png', alt='Texto que describa la imagen')
 
+      .row(titulo="Variables cuantitativas - ejemplos")
+        .col-md-6.mb-4.mb-md-0
+          p Algunos ejemplos que pueden dar una idea general sobre alguna situación de riesgo son:
+          ul.lista-ul
+            li 
+              i.lista-ul__vineta
+              | Aumento del cauce de un río.
+            li 
+              i.lista-ul__vineta
+              | Área deforestada en una región.
+            li 
+              i.lista-ul__vineta
+              | Concentración de metales pesados en una muestra de agua.
+            li 
+              i.lista-ul__vineta
+              | Presencia de trazas de pesticidas en un cuerpo de agua.
+            li 
+              i.lista-ul__vineta
+              | Contenidos de material particulado presentes en una zona de la ciudad.
+
+      
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema3/14.png', alt='Texto que describa la imagen')
+
+      .row(titulo="Variables cualitativas")
+        .col-md-6.mb-4.mb-md-0
+          p Se relacionan con variables que obedecen sobre todo a percepciones por lo que adquieren un carácter subjetivo. Sin embargo, es posible diseñar instrumentos que reduzcan los márgenes de error y que faciliten la captura de información confiable en el terreno.
+      
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema3/15.png', alt='Texto que describa la imagen')
+
+      .row(titulo="Variables cualitativas – ejemplos")
+        .col-md-6.mb-4.mb-md-0
+          p Algunos ejemplos de estas variables son las escalas que se emplean para determinar los impactos de algún factor en especial sobre la población, donde se solicita al encuestado que califique con cierto puntaje sus apreciaciones sobre un fenómeno en particular, como, por ejemplo:
+
+          ul.lista-ul
+            li 
+              i.lista-ul__vineta
+              | Probabilidad de ocurrencia de un evento.
+            li 
+              i.lista-ul__vineta
+              | Posibles efectos que este podría tener.
+            li 
+              i.lista-ul__vineta
+              | Causas probables.
+
+      
+        .col-md-6
+          figure
+            img(src='@/assets/curso/temas/tema3/16.png', alt='Texto que describa la imagen')
+      
+    p(data-aos="fade-right").mb-5 Una vez se tienen identificados y valorados los riesgos, así como sus posibles efectos en la salud de las personas, es necesario establecer un análisis de riesgos, es decir, frente a cuáles de ellos se tiene una mayor vulnerabilidad, cuáles representan una mayor amenaza y qué consecuencias o qué daños pueden llegar a producir en determinadas circunstancias. Para ello, es necesario tener en cuenta lo siguiente:
+
+    .BGIMG01.p-4.mb-5
+      SlyderA(tipo="b")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h3 Identificar la naturaleza, extensión, intensidad y magnitud de las amenazas.
+            p Consiste en la identificación detallada de las amenazas en un área geográfica específica. Definir las causas de la amenaza, así como los factores que inciden en ella y que pueden aumentar sus efectos sobre la población.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/17.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h3 Determinar la existencia y grado de vulnerabilidad. 
+            p Reconocer las vulnerabilidades frente a determinadas amenazas para a partir de allí estimar qué se requiere para afrontarlas de la mejor manera.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/18.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h3 Identificar las medidas y recursos disponibles. 
+            p Elaborar un mapa de actores y recursos disponibles con el fin de articular una respuesta integral frente a determinado tipo de amenazas.
+
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/19.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h3 Construir escenarios de riesgo probables. 
+            p Analizar las causas y los efectos de las amenazas con el fin de simular condiciones reales en las cuales se evidencien sus impactos sobre la población. 
+
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/20.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h3 Determinar niveles aceptables de riesgo. 
+            p Establecer qué riesgos se pueden correr y cuáles definitivamente no, esto con base en la información recopilada a partir de las evaluaciones de riesgos.  
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/21.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h3 Fijar prioridades
+            p Establecer qué aspectos se atenderán, en orden de importancia, con base en los recursos disponibles y las posibles afectaciones identificadas en el análisis de riesgos.
+
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/22.png', alt='Texto que describa la imagen')
+
+        .row
+          .col-md-6.mb-4.mb-md-0
+            h3 Diseñar sistemas de administración efectivos y apropiados. 
+            p A partir de las prioridades establecidas gestionar equipos de trabajo acordes con las necesidades y los objetivos propuestos.  
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema3/23.png', alt='Texto que describa la imagen')
+
+    .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
+      img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
+      .h3.col-auto.pb-2.mb-0.ms-2(style=" color: #455B2D;") Toma de decisiones
+
+    p(data-aos="fade-right") El objetivo del análisis de riesgos, así como de sus causas y sus posibles consecuencias es facilitar la toma de decisiones en las instancias encargadas de su gestión y administración. Entre más información se tenga respecto a la naturaleza del fenómeno, sus causas y posibles consecuencias mayor será la profundidad de los análisis que se realicen para tomar decisiones que permitan afrontar la situación de la mejor manera.
+    p(data-aos="fade-right").mb-5 Un esquema que podría utilizarse para la gestión de riesgos es como el que se muestra en la siguiente figura:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10.desktop(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 17.] <em>Esquema para la gestión de riesgos</em>
+        figure
+          img.mb-3(src='@/assets/curso/temas/tema3/24.svg', alt='En la figura 17 se muestra un flujograma para la gestión de riesgos que inicia en un riesgo identificado y concluye en las medidas de administración que pueden ser de prevención o protección.')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-10.movil(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Figura 17.] <em>Esquema para la gestión de riesgos</em>
+        figure
+          img.mb-3(src='@/assets/curso/temas/tema3/24-m.svg', alt='En la figura 17 se muestra un flujograma para la gestión de riesgos que inicia en un riesgo identificado y concluye en las medidas de administración que pueden ser de prevención o protección.')
+
+    .tarjeta.color-primario1.p-4.col-ipad.mb-5(style="border-radius:0")
+      .row.justify-content-center.align-items-center
+        .col-7
+          p De acuerdo con el anterior esquema, es evidente que cuando se tiene identificado un riesgo existen en primera instancia, tres acciones que se pueden realizar. La primera de ellas es aceptar el riesgo, es decir, que es un riesgo que se puede tomar teniendo en cuenta su posible impacto y las afectaciones que de él se deriven. Una segunda opción es eliminarlo, lo cual se logra mediante la implementación de alguna medida en particular. En tercer lugar, se tiene la posibilidad de gestionarlo. 
+          p La gestión del riesgo empieza con la toma de alguna medida de administración, es decir, con la toma de decisiones que permitan actuar frente al riesgo identificado. Las medidas de administración permiten dos posibilidades. La primera es la prevención, a partir de la cual se derivan los planes y acciones tendientes a prevenir la aparición de un riesgo en particular. La segunda instancia es la protección, es decir, tomar alguna medida que pueda proteger a la población, frente al riesgo identificado. Para desarrollar las medidas de protección también se tiene la posibilidad de desarrollar planes y acciones, en primera instancia, transferir el riesgo o retenerlo. La transferencia de riesgos hace referencia a una alternativa de financiación en la cual el riesgo se transfiere a una compañía de seguros, la cual responde en caso de que la situación se presente. Por su parte, la retención es la aceptación del riesgo soportando las pérdidas que se llegasen a presentar en caso de materializarse. 
+        .col-5
+          img(src='@/assets/curso/temas/tema3/25.png')
+
+    p(data-aos="fade-right").mb-5 Cualquiera que sea el manejo que se dé a los riesgos es necesario tener pleno conocimiento de sus causas, de sus posibles consecuencias, de sus afectaciones y del grado de vulnerabilidad que se tiene frente a este. Una correcta gestión de los riesgos permitirá afrontar las situaciones que se presenten y adoptar medidas que redunden en el mantenimiento de la calidad de vida y la salud de la población. 
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Mapas de riesgo
 
+    p(data-aos="fade-right") Un mapa de riesgo es una herramienta que permite presentar la información sobre los riesgos a los cuales está expuesta una organización y visualizar su magnitud con el fin de entregar los insumos necesarios para su correcta gestión y manejo. Esta información se puede presentar de manera gráfica o por medio de datos, los cuales dan una lectura integral del tipo de riesgos, su calificación, los controles a los que se someten o los controles que se llevan a cabo para administrarlos. 
+    p(data-aos="fade-right").mb-5 Por lo general, un mapa de riesgos se diseña como una matriz que contiene información sobre un riesgo en particular, o una serie de riesgos, a los cuales se les asigna unos atributos que permiten su calificación, evaluación y plan de manejo. Los componentes del mapa de riesgos son los siguientes:
+
+    .row(data-aos="fade-left").mb-5
+      .col-4.mb-4.mb-lg-0
+        .tarjeta--boton.color-secundario.p-4(style='height:100%')
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema3/30.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Identificación del riesgo
+          p Se establece en primer lugar el riesgo. Posteriormente se definen sus causas, efectos y controles. 
+
+      .col-4.mb-4.mb-lg-0
+        .tarjeta--boton.color-primario.p-4(style='height:100%')
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema3/31.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Evaluación
+          p Corresponde con la evaluación del riesgo indicando su valoración (probabilidad de que ocurra, impacto y calificación).
+          p De acuerdo con los valores obtenidos se define un puntaje para el riesgo. Con base en este dato se define su prioridad. 
+
+      .col-4.mb-4.mb-sm-0
+        .tarjeta--boton.color-secundario.p-4(style='height:100%')
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema3/32.svg', alt='Texto que describa la imagen')
+
+          h3 Plan de manejo
+          p Se incluyen datos como la política de manejo, las acciones de mitigación, los responsables, el cronograma de actividades y el indicador.
+
+    p(data-aos="fade-right").mb-5 Para ilustrar los componentes del mapa de riesgos se presenta el siguiente ejemplo (ver tabla):
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col(data-aos="fade-right")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 #[b Tabla 5.] <em>Esquema general de un mapa de riesgos</em>
+        .tabla-a.color-acento-contenido
+          table.text-center
+            caption  Nota. Restrepo G. y González J. (2010). 
+            thead
+              tr
+                th(colspan="4") Identificación del riesgo
+                th(colspan="3") Evaluación
+                th(colspan="6") Plan de manejo
+            tbody.text-small
+              tr
+                td Riesgo
+                td Causas
+                td Efectos
+                td Controles
+                td(colspan="3") Valoración
+                td Zona de valoración del riesgo	
+                td Política de manejo
+                td Acciones de mitigación	
+                td Responsable
+                td Cronograma	
+                td Indicador
+              tr
+                td(colspan="4")
+                td Probabilidad 
+                td Impacto 
+                td Calificación 
+                td
+                td
+                td
+                td
+                td
+                td
+              tr
+                td(colspan="4") #[b Riesgo 1]
+                td 
+                td 
+                td 
+                td
+                td
+                td
+                td
+                td
+                td
+              tr
+                td(colspan="4") #[b Riesgo 2]
+                td 
+                td 
+                td 
+                td
+                td
+                td
+                td
+                td
+                td
+	
+    p(data-aos="fade-right") Las filas correspondientes se deben diligenciar para cada uno de los riesgos identificados al interior de la organización de acuerdo con su nivel de prioridad. En algunas organizaciones se incluye una primera columna, en la cual se diligencia la información correspondiente al proceso en el cual se identifican los riesgos. 
+    p(data-aos="fade-right").mb-5 El mapa de riesgos requiere un constante proceso de revisión, evaluación y ajuste, ya que las actividades que allí se plantean se deben realizar en los tiempos señalados. La periodicidad con la que se hace seguimiento al mapa de riesgos es definida por cada organización, pero generalmente se realiza de manera anual. En el proceso de evaluación, se analiza la efectividad de cada uno de los controles propuestos y se elabora un informe donde se da cuenta de las gestiones adelantadas. 
+
+    .d-flex.flex-wrap.align-items-center(data-aos="fade-right").mb-5
+      img(src='@/assets/curso/temas/icono.svg' style="max-width: 30px;")
+      .h3.col-auto.pb-2.mb-0.ms-2(style=" color: #455B2D;") Acciones de respuesta
+
+    p(data-aos="fade-right").mb-5 El resultado final del proceso de gestión de riesgos es el diseño de acciones encaminadas a evitar que los riesgos causen traumatismos a la organización o a la población. De acuerdo con el portal #[b #[em ISO Tools Excellence] (2016)], las medidas de manejo del riesgo pueden ser las siguientes:
+
+    .row(data-aos="fade-left").mb-5
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-secundario.p-4(style='height:100%')
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema3/26.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Reducción del riesgo
+          p Esta es una de las opciones más empleadas en la gestión de riesgos y consiste en la implementación de medidas que contribuyan a reducir el riesgo. Es básicamente aplicar controles de seguridad. 
+
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-primario.p-4(style='height:100%')
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema3/27.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Compartir o transferir el riesgo
+          p Generalmente, esto se consigue con la suscripción de una póliza de seguros con cobertura para el riesgo que se desea compartir. 
+
+      .col-sm-6.col-lg-3.mb-4.mb-sm-0
+        .tarjeta--boton.color-secundario.p-4(style='height:100%')
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema3/28.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Eliminar el riesgo
+          p Esto se consigue eliminando una actividad, un procedimiento o un proceso que puede ser la causa del incidente. 
+
+      .col-sm-6.col-lg-3
+        .tarjeta--boton.color-primario.p-4(style='height:100%')
+          .row.justify-content-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema3/29.svg', alt='Texto que describa la imagen')
+
+          h3.text-center Aceptar el riesgo
+          p Esto se realiza cuando las acciones necesarias para eliminar un riesgo tienen un costo muy alto (superior a las consecuencias previstas de la ocurrencia del incidente). En ese caso se toma la decisión de “convivir” con el riesgo. 
+
+    p(data-aos="fade-right").mb-5 Cualquiera que sea la decisión que se tome respecto al manejo y gestión del riesgo es importante que haya una evidencia de todo el proceso, por lo que se recomienda dejar registro de los procedimientos, anotaciones y evaluaciones del riesgo con el fin de facilitar la trazabilidad. La estimación de los riesgos y la definición de las medidas para manejarlo son grandes responsabilidades que acarrean un conocimiento minucioso de las situaciones y una revisión detallada de los procedimientos existentes para la toma consciente de decisiones. 
 </template>
 
 <script>

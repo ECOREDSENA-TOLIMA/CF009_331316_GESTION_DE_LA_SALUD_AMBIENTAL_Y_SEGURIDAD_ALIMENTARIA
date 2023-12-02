@@ -179,7 +179,7 @@
           .col-md-6.mb-4.mb-md-0
             h3 Características climatológicas del territorio
             p Los picos de enfermedades respiratorias se presentan en temporadas invernales, así como en zonas cálidas donde existe alta incidencia de enfermedades transmitidas por vectores, como el dengue.
-            p “El clima del país es posible identificarlo por la temperatura media del aire, de la precipitación, de la humedad del aire y de los vientos, variables climatológicas, que muestran una variabilidad en la distribución espaciotemporal y se relacionan con los procesos biológicos, de salud, ecosistémicos y socioeconómicos” (Ministerio de Salud y Protección Social, 2021). 
+            p “El clima del país es posible identificarlo por la temperatura media del aire, de la precipitación, de la humedad del aire y de los vientos, variables climatológicas, que muestran una variabilidad en la distribución espacio temporal y se relacionan con los procesos biológicos, de salud, ecosistémicos y socioeconómicos” (Ministerio de Salud y Protección Social, 2021). 
 
 
           .col-md-6

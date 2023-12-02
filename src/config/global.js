@@ -251,8 +251,7 @@ export default {
     {
       referencia:
         'González J., Restrepo G. (2010). Biometría comunitaria. Introducción al pensamiento científico en la salud del individuo y la comunidad.',
-      link:
-        'https://noticias.juanncorpas.edu.co/uploads/media/Libro_de_Biometria_Comunitaria.pdf',
+      link: 'https://www.academia.edu/34538888/Libro_de_Biometria_Comunitaria',
     },
     {
       referencia:

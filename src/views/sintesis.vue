@@ -10,7 +10,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis del componente factores de riesgo en gestión de la salud ambiental y la seguridad sanitaria encontramos tres temas principales, salud ambiental, análisis de la situación y evaluación del riesgo.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

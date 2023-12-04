@@ -42,7 +42,7 @@
         i.lista-ul__vineta
         | Capital social.
 
-    p(data-aos="fade-right") El otro elemento que se debe tener en cuenta para el abordaje de la salud ambiental es el de salud.  Una de las definiciones más conocidas fue la que se dio por parte de la Organización Mundial de la Salud (OMS) en 1946 que la reconocía como un “estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades”.
+    p(data-aos="fade-right") El otro elemento que se debe tener en cuenta para el abordaje de la salud ambiental es el de salud.  Una de las definiciones más conocidas fue la que se dio por parte de la Organización Mundial de la Salud (OMS) en 1946, que la reconocía como un “estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades”.
 
     p(data-aos="fade-right").mb-5 Posteriormente, el concepto incorporó nuevos elementos como los factores externos y las interacciones de las condiciones sociales, ambientales y políticas, así como la forma en que estas generan efectos en la salud. En este orden de ideas, “El análisis de la salud, esencialmente, debe indagar la influencia de los determinantes sociales que generan brechas de desigualdad en toda la población, excediéndose del abordaje tradicionalista de la fracción de población que demanda servicios del sistema de salud” (Guía conceptual y metodológica para la construcción del ASIS de las Entidades Territoriales, 2014).
 
@@ -61,7 +61,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Factores de riesgo
 
-    p(data-aos="fade-right").mb-5 Conforme a lo expuesto por la OPS, un factor de riesgo se asocia con una característica o atributo cuya presencia en el individuo se relaciona con un aumento en la probabilidad de padecer daño, desarrollar o estar expuesto a una enfermedad. Dentro de los factores de riesgo se encuentran diversas categorías las cuales se definen con base en su naturaleza como se presenta a continuación:
+    p(data-aos="fade-right").mb-5 Conforme a lo expuesto por la OPS, un factor de riesgo se asocia con una característica o atributo cuya presencia en el individuo se relaciona con un aumento en la probabilidad de padecer daño, desarrollar o estar expuesto a una enfermedad. Dentro de los factores de riesgo se encuentran diversas categorías, las cuales se definen con base en su naturaleza, como se presenta a continuación:
 
     .tarjeta.color-primario1.p-4.mb-5
       PasosB.color-primario
@@ -104,7 +104,7 @@
         .row(titulo="Paso 5")
           .col-md-6.mb-4.mb-md-0
             h2 Medioambientales
-            p Dentro de esta categoría se encuentran una amplia gama de elementos que inciden en la salud de las personas relacionados con factores económicos, políticos, culturales y sociales. Igualmente confluyen procesos químicos, biológicos y físicos. En este grupo están, por ejemplo, el acceso al agua potable, el saneamiento básico y la calidad del aire.
+            p Dentro de esta categoría se encuentran una amplia gama de elementos que inciden en la salud de las personas, relacionados con factores económicos, políticos, culturales y sociales. Igualmente confluyen procesos químicos, biológicos y físicos. En este grupo están, por ejemplo, el acceso al agua potable, el saneamiento básico y la calidad del aire.
         
           .col-md-6
             figure
@@ -334,7 +334,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10
-        p(data-aos="fade-right") De acuerdo con el anterior planteamiento es claro que los aspectos socioambientales se dan como resultado de las interacciones entre los procesos sociales y el entorno, tanto natural como el transformado por el hombre, por lo que, para analizar los aspectos socioambientales, es importante observar las relaciones que se dan entre la población y el ambiente desde dos perspectivas. La primera, se da desde la influencia que tienen los factores ambientales sobre las poblaciones y la segunda, desde la incidencia que tienen los asentamientos humanos sobre su entorno natural.
+        p(data-aos="fade-right") De acuerdo con el anterior planteamiento, es claro que los aspectos socioambientales se dan como resultado de las interacciones entre los procesos sociales y el entorno, tanto natural como el transformado por el hombre, por lo que, para analizar los aspectos socioambientales, es importante observar las relaciones que se dan entre la población y el ambiente desde dos perspectivas. La primera se da desde la influencia que tienen los factores ambientales sobre las poblaciones y la segunda, desde la incidencia que tienen los asentamientos humanos sobre su entorno natural.
         p(data-aos="fade-right").mb-5 Entre los principales aspectos que se deben tener en cuenta para el análisis de las condiciones socioambientales de un territorio se encuentran:
 
     .row.justify-content-center.mb-4
